@@ -12,6 +12,7 @@ Professor: Vinícius R. P. Borges
 
 - [Artigo do projeto](relatorio.pdf)
 - [Corpus utilizado](https://data.world/williamwebb35/sarcastictweets)
+- [Pre-trained word vectors para transfer learning](https://drive.google.com/file/d/146lokP3YLrTX6pfdwIEeu9rMIzbko5I0/view?usp=sharing)
 - Código Fonte:
   + [Vetorização por meio de TF-IDF + Léxico](PLN_TFIDF.ipynb)
   + [Vetorização por meio de Word2Vec](PLN_W2V.ipynb)
@@ -19,14 +20,5 @@ Professor: Vinícius R. P. Borges
   + [Vetorização por meio de Word2Vec + Transfer Learning](PLN_W2V_Transfer.ipynb)
   + [Vetorização por meio de Word2Vec + Transfer Learning (CNN)](PLN_W2V_Transfer_GPU.ipynb)
 
-### Observação: 
-Os word vectors utilizados nas etapas de transfer learning foram obtidos por meio do arquivo `'word2vec-google-news-300'` presente na biblioteca Python Gensim. Tais vetores podem ser baixados localmente por meio do seguinte trecho de codigo:
-
-```py
-import gensim.downloader
-
-wv = gensim.downloader.load('word2vec-google-news-300')
-
-```
 
 
