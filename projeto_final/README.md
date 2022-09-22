@@ -10,7 +10,7 @@ Professor: Vinícius R. P. Borges
 
 ### Recursos
 
-- [O Relatório do projeto](relatorio.pdf)
+- [Artigo do projeto](relatorio.pdf)
 - [Corpus utilizado](https://data.world/williamwebb35/sarcastictweets)
 - Código Fonte:
   + [Vetorização por meio de TF-IDF + Léxico](PLN_TFIDF.ipynb)
