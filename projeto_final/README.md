@@ -6,6 +6,8 @@ Departamento de Ciência da Computação
 
 CIC0269 - Processamento de Linguagem Natural - 2022/1
 
+Aluno: Gabriel da Silva Corvino Nogueira (180113330)
+
 Professor: Vinícius R. P. Borges
 
 ### Recursos
